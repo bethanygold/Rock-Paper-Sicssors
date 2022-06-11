@@ -15,7 +15,7 @@ while True:
     if player == computer:
         print("CPU: ", computer)
         print("Player: ", player)
-        print("Tie!")
+        print("It's a tie! Try again")
     elif player == "R":
         if computer =="P":
             print("CPU: ", computer)
